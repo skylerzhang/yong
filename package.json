@@ -1,7 +1,7 @@
 {
   "name": "yong",
-  "version": "0.0.2",
-  "description": "A simple command-line tool for searching git repositories",
+  "version": "0.0.3",
+  "description": "A simple command-line tool for checking css property",
   "author": "skyler (skylerzhang@gmail.com)",
   "engines": {
     "node": ">=0.10"
