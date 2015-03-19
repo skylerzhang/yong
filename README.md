@@ -24,6 +24,8 @@ Translate one word.
 $ yong border-radius
 ```
 
+![](http://www.slylerzhang.com/assets/images/yong.jpg)
+
 ```
  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
  CSS3 Border-radius (rounded corners)  (种类:CSS3)
@@ -58,10 +60,26 @@ $ yong border-radius
  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ```
 
+y => yes  means you can use this css property in this browser version.
+
+n => no  means you can't use this css property in this browser version.
+
+y x  means you can use, but you need to add a prefix like `-moz-`,`-webkit-`,`-o-`,`-ms-`.
+
 ## Option
 
 ```bash
 $ yong border-radius -b ie
+```
+
+![](http://www.slylerzhang.com/assets/images/yong-b.jpg)
+
+```
+    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+    CSS3 Border-radius (rounded corners)  (种类:CSS3)
+    ~ie
+     6:n   7:n   8:n   9:y   10:y   11:y   5.5:n   TP:y
+    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ```
 
 ## LICENSE
