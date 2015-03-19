@@ -1,0 +1,17 @@
+{
+  "name": "yong",
+  "version": "0.0.1",
+  "description": "A simple command-line tool for searching git repositories",
+  "author": "skyler (skylerzhang@gmail.com)",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "commander": "^2.7.1",
+    "request": "^2.53.0"
+  },
+  "bin": {
+    "yong": "yong.js"
+  }
+}
