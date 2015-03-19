@@ -16,9 +16,9 @@ $ npm install yong -g
 
 I set up a simple server with nodejs and [jae](http://jae.jd.com/).
 
-The data is fetched from [ghithub => caniuse](https://github.com/Fyrd/caniuse).
+The data is fetched from [ghithub/caniuse](https://github.com/Fyrd/caniuse).
 
-Translate one word.
+Check a css property.
 
 ```bash
 $ yong border-radius
@@ -75,11 +75,11 @@ $ yong border-radius -b ie
 ![ ](http://www.skylerzhang.com/assets/images/yong-b.jpg)
 
 ```
-    <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-    CSS3 Border-radius (rounded corners)  (种类:CSS3)
-    ~ie
-     6:n   7:n   8:n   9:y   10:y   11:y   5.5:n   TP:y
-    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+  CSS3 Border-radius (rounded corners)  (种类:CSS3)
+  ~ie
+   6:n   7:n   8:n   9:y   10:y   11:y   5.5:n   TP:y
+  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ```
 
 ## LICENSE
