@@ -24,7 +24,7 @@ Translate one word.
 $ yong border-radius
 ```
 
-![ ](http://www.slylerzhang.com/assets/images/yong.jpg)
+![ ](http://www.skylerzhang.com/assets/images/yong.jpg)
 
 ```
  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -72,7 +72,7 @@ y x  means you can use, but you need to add a prefix like `-moz-`,`-webkit-`,`-o
 $ yong border-radius -b ie
 ```
 
-![ ](http://www.slylerzhang.com/assets/images/yong-b.jpg)
+![ ](http://www.skylerzhang.com/assets/images/yong-b.jpg)
 
 ```
     <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
