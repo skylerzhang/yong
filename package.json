@@ -1,6 +1,6 @@
 {
   "name": "yong",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A simple command-line tool for checking css property",
   "author": "skyler (skylerzhang@gmail.com)",
   "engines": {
