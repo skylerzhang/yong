@@ -14,7 +14,7 @@ if(!command.args.length) {
     command.help();
 } else {
     var keywords = command.args;
-    var url = 'http://caniuse.jd-app.com/caniuse?keyword='+keywords;
+    var url = 'http://me.skylerzhang.com:8080/caniuse?keyword='+keywords;
     if(command.browser) {
         url = url + '&browser=' + command.browser;
     }
