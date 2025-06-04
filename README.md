@@ -16,7 +16,7 @@ $ npm install yong -g
 
 I set up a simple server with nodejs and [jae](http://jae.jd.com/).
 
-The data is fetched from [ghithub/caniuse](https://github.com/Fyrd/caniuse).
+The data is fetched from [github/caniuse](https://github.com/Fyrd/caniuse).
 
 Check a css property.
 
