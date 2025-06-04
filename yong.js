@@ -1,11 +1,18 @@
 #!/usr/bin/env node
 
+var pkg = require('./package.json');
+
+if (process.argv.indexOf('--version') !== -1 || process.argv.indexOf('-V') !== -1) {
+    console.log(pkg.version);
+    process.exit(0);
+}
+
 var command = require('commander');
 var request = require('request');
 var chalk = require('chalk');
 
 command
-    .version('0.0.4')
+    .version(pkg.version)
     .usage('<keywords>')
     .option('-b, --browser [broswer]', 'Filter by the browser')
     .parse(process.argv);
