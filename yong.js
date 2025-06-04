@@ -7,7 +7,7 @@ var chalk = require('chalk');
 command
     .version('0.0.1')
     .usage('<keywords>')
-    .option('-b, --browser [broswer]', 'Filter by the browser')
+    .option('-b, --browser [browser]', 'Filter by the browser')
     .parse(process.argv);
 
 if(!command.args.length) {

@@ -72,6 +72,8 @@ y x  means you can use, but you need to add a prefix like `-moz-`,`-webkit-`,`-o
 $ yong border-radius -b ie
 ```
 
+Use the `-b, --browser [browser]` option to limit results to a specific browser.
+
 ![ ](http://www.skylerzhang.com/assets/images/yong-b.jpg)
 
 ```
